@@ -1,8 +1,6 @@
 #DEFINE VARS
 image=<your repo name. i.e yourrepo/awx-ee:latest>
 
-
-python3 -m venv venv
 ansible-builder build --tag $image --context ./context --container-runtime docker
 
 # login to docker and push to docker hub
