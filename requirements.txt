@@ -1,0 +1,8 @@
+ansible-core==2.12.5
+urllib3
+git+https://github.com/ansible/ansible-builder.git@devel#egg=ansible-builder
+ansible-runner
+Jinja2==3.0.0
+ansible-pylibssh
+MarkupSafe
+PyYAML

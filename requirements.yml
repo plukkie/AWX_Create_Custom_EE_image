@@ -1,0 +1,9 @@
+---
+collections:
+  - community.general
+  - ansible.netcommon
+  - ansible.utils
+  - dellemc.enterprise_sonic
+  - dellemc.os10
+
+
