@@ -40,6 +40,7 @@ In my case I use the docker hub, but it can be any reachable hub.
   - Give it a name of choice
   - For image select your full repo name
   - Pull dropdown you can select 'only pull the image if not present', then it will pull only once
+  - Use your Custom EE in your templates
 
 Enjoy!
 Peter alias plukkie
